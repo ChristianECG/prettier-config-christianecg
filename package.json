@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config-christianecg",
+  "version": "1.0.0",
+  "description": "A professional configuration for prettier",
+  "main": "index.js",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Christian Elías <contacto@christianecg.com>",
+  "license": "MIT"
+}
